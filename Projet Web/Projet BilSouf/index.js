@@ -1,5 +1,5 @@
 window.addEventListener("DOMContentLoaded", function (event) {
-
+dajzkekfdndofdsjsdods
     const selecteur= document.getElementById("selecteur");
     if (selecteur) {
         selecteur.innerHTML = `<label for="color-select">Couleur : </label>
