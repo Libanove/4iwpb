@@ -1,6 +1,6 @@
 window.addEventListener("DOMContentLoaded", function (event) {
 
-    salammmmm
+    salammmmmalalalala
 
     const selecteur= document.getElementById("selecteur");
     if (selecteur) {
@@ -8,7 +8,7 @@ window.addEventListener("DOMContentLoaded", function (event) {
 
         <select id="color-select">
 
-            <option value="#000000"> NOIR</option>
+            <option value="#000000ff"> NOIR</option>
             <option value="#0000FF"> BLEU</option>
             <option value="#FF0000"> ROUGE</option>
 
