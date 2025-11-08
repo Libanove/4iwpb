@@ -1,4 +1,9 @@
+
 window.addEventListener("DOMContentLoaded", function () {
+
+    
+
+
 
     /*Bonus de sauvegarde de la couleur*/
     const savedColor =localStorage.getItem("text-color");
